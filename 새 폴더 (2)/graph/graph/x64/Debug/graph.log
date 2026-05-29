@@ -1,3 +1,17 @@
 ﻿  main.cpp
+C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\graph\graph\AdjMatGraph.h(76,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\graph\graph\AdjMatGraph.h(79,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\graph\graph\AdjMatGraph.h(83,5): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\graph\graph\AdjMatGraph.h(86,6): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\graph\graph\AdjMatGraph.h(78,11): warning C4101: 'val' :참조되지 않은 지역 변수입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
 C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\graph\graph\main.cpp(5,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  graph.vcxproj -> C:\Users\USER\Documents\datastructurelab2026-4\새 폴더 (2)\graph\x64\Debug\graph.exe
