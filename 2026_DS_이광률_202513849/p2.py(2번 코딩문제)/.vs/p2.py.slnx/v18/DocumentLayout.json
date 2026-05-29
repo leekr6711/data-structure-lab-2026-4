@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\data-structure-lab-2026-4\\data-structure-lab-2026-4\\2026_DS_\uC774\uAD11\uB960_202513849\\p2.py(2\uBC88 \uCF54\uB529\uBB38\uC81C)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7786D328-1A6B-41C6-8E30-107C242C9206}|p2.py\\p2.py.pyproj|C:\\Users\\Administrator\\Desktop\\data-structure-lab-2026-4\\data-structure-lab-2026-4\\2026_DS_\uC774\uAD11\uB960_202513849\\p2.py(2\uBC88 \uCF54\uB529\uBB38\uC81C)\\p2.py\\p2.py.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7786D328-1A6B-41C6-8E30-107C242C9206}|p2.py\\p2.py.pyproj|solutionrelative:p2.py\\p2.py.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p2.py.py",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\data-structure-lab-2026-4\\data-structure-lab-2026-4\\2026_DS_\uC774\uAD11\uB960_202513849\\p2.py(2\uBC88 \uCF54\uB529\uBB38\uC81C)\\p2.py\\p2.py.py",
+              "RelativeDocumentMoniker": "p2.py\\p2.py.py",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\data-structure-lab-2026-4\\data-structure-lab-2026-4\\2026_DS_\uC774\uAD11\uB960_202513849\\p2.py(2\uBC88 \uCF54\uB529\uBB38\uC81C)\\p2.py\\p2.py.py",
+              "RelativeToolTip": "p2.py\\p2.py.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-29T12:08:50.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
